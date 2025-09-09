@@ -7,7 +7,7 @@
   </h2>
   
   <img 
-    src="https://github.com/user-attachments/assets/9b6ff71d-ac68-4ae1-bcc4-c7b825363186" 
+    src="https://github.com/user-attachments/assets/a72f7dcd-7742-4841-852e-7f7aa6ce0e84"
     alt="Trello Board Preview" 
     width="100%" 
     style="border-radius: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.15); margin: 15px 0;"
