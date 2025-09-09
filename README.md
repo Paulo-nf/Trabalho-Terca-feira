@@ -41,7 +41,7 @@
     <li><strong>Exportar os dados</strong> analisados em Excel ou PDF.</li>
   </ul>
 
-  <h2 style="color: #0079bf; margin-top: 30px;">
+  <h3 style="color: #0079bf; margin-top: 30px;">
     Trello: 
     <a href="https://trello.com/b/PfBWgVfO/my-trello-board" target="_blank" style="text-decoration: none; color: #005a8c;">
       Meu Quadro no Trello
