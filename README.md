@@ -4,8 +4,8 @@
   <p>
     O projeto utiliza dados abertos da Prefeitura do Recife, que disponibilizam informações 
     sobre <strong>infrações de trânsito</strong> e <strong>acidentes de trânsito</strong> (com e sem vítimas).  
-    A análise busca responder a perguntas sobre padrões, horários, dias da semana e a influência de feriados,
-    permitindo identificar comportamentos recorrentes no trânsito da cidade.
+    A análise busca identificar padrões, horários, dias da semana e a influência de feriados,
+    permitindo compreender melhor o comportamento do trânsito na cidade.
   </p>
 
   <ul style="padding-left: 20px;">
@@ -21,27 +21,24 @@
     </li>
   </ul>
 
-  <h3 style="margin-top: 25px; color: #333;">❓ Perguntas de Pesquisa</h3>
+  <h3 style="margin-top: 25px; color: #333;">📌 User Stories</h3>
   <p>
-    Algumas das perguntas que orientam a análise dos dados:
+    Como usuário, eu gostaria de:
   </p>
 
-  <h4 style="margin-top: 15px; color: #0079bf;">Infrações</h4>
   <ul>
-    <li>Qual a infração mais comum?</li>
-    <li>Qual a porcentagem de infrações por dia da semana?</li>
-    <li>Qual o horário mais comum de ocorrência?</li>
-    <li>Qual o evolutivo de infrações por ano?</li>
-    <li>As infrações são mais comuns em feriados?</li>
-  </ul>
-
-  <h4 style="margin-top: 15px; color: #0079bf;">Acidentes</h4>
-  <ul>
-    <li>Quantos acidentes tiveram vítimas?</li>
-    <li>Qual a porcentagem de acidentes por dia da semana?</li>
-    <li>Qual o horário mais comum de ocorrência?</li>
-    <li>Qual o evolutivo de acidentes por ano?</li>
-    <li>Os acidentes são mais comuns em feriados?</li>
+    <li>Visualizar as <strong>infrações mais frequentes</strong> no Recife.</li>
+    <li>Entender a <strong>distribuição das infrações por dia da semana</strong>.</li>
+    <li>Identificar o <strong>horário com mais infrações</strong>.</li>
+    <li>Analisar as <strong>tendências de infrações ao longo dos anos</strong>.</li>
+    <li>Comparar <strong>infrações em feriados vs dias normais</strong>.</li>
+    <li>Saber <strong>quantos acidentes resultam em vítimas</strong>.</li>
+    <li>Ver a <strong>distribuição de acidentes por dia da semana</strong>.</li>
+    <li>Identificar o <strong>horário com mais acidentes</strong>.</li>
+    <li>Observar a <strong>tendência de acidentes ao longo dos anos</strong>.</li>
+    <li>Comparar <strong>acidentes em feriados vs dias normais</strong>.</li>
+    <li>Acessar um <strong>painel com os principais indicadores</strong> de trânsito.</li>
+    <li><strong>Exportar os dados</strong> analisados em Excel ou PDF.</li>
   </ul>
 
   <h2 style="color: #0079bf; margin-top: 30px;">
