@@ -23,7 +23,7 @@
 
   <h3 style="margin-top: 25px; color: #333;">📌 User Stories</h3>
   <p>
-    Como usuário, eu gostaria de:
+    Os usuário teram a possibilidade de:
   </p>
 
   <ul>
