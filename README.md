@@ -4,7 +4,7 @@
 
 
 <h3>Participantes:</h3>
--Mateus Felipe De Souza Oliveira<br>
--Paulo Nery da Fonseca<br>
+<a href="https://github.com/mateusoliveiraadev">Mateus Felipe De Souza Oliveira</a><br>
+<a href="https://github.com/paulo-nf">Paulo Nery da Fonseca</a><br>
 -Raissa Sousa Stodulski<br>
 -Vinicius da Cruz Mendes<br>
