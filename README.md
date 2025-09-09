@@ -17,7 +17,7 @@
   <ul style="list-style: none; padding-left: 0;">
     <li><a href="https://github.com/mateusoliveiraadev" target="_blank">Mateus Felipe De Souza Oliveira</a></li>
     <li><a href="https://github.com/paulo-nf" target="_blank">Paulo Nery da Fonseca</a></li>
-    <li>Raissa Sousa Stodulski</li>
+    <li><a href="https://github.com/raissastodulski" target="_blank">Raissa Sousa Stodulski</a></li>
     <li>Vinicius da Cruz Mendes</li>
   </ul>
 </section>
