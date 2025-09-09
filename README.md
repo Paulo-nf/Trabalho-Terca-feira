@@ -42,7 +42,7 @@
   </ul>
 
   <h3 style="color: #0079bf; margin-top: 30px;">
-    Trello: 
+    🔗 Trello: 
     <a href="https://trello.com/b/PfBWgVfO/my-trello-board" target="_blank" style="text-decoration: none; color: #005a8c;">
       Meu Quadro no Trello
     </a>
